@@ -1,0 +1,2 @@
+# premium-pa-funnel-001-conversion-funnel-analysis-tem
+You're losing revenue in your funnel, but you can't see where. Stop guessing about drop-off points—the Conversion Funnel Analysis Template gives you a clear, visual breakdown of every stage, so you can finally identify and fix leaks before they cost you thousands.  This Notion template eliminates the spreadsheet chaos of tracking conversion metrics
